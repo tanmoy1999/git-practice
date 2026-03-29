@@ -8,3 +8,4 @@
 8 - simple merge check --> branch1
 9 - conflict check - 1 --> main
 10 - commit 3 main --> main
+11 - branch-1 is merged --> main
