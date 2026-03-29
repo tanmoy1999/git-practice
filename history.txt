@@ -3,3 +3,4 @@
 3 - commit 1 --> main
 4 - commit 2 --> main
 5 - commit 3 after branch1 is created --> main
+6 - commit 1 branch1 --> branch1
