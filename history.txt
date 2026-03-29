@@ -5,3 +5,4 @@
 5 - commit 3 after branch1 is created --> main
 6 - commit 1 branch1 --> branch1
 7 - commit 2 branch1 --> branch1
+8 - simple merge check --> branch1
