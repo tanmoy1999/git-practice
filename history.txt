@@ -9,3 +9,5 @@
 9 - conflict check - 3 --> main
 10 - conflict branch-2 --> branch2
 12 - another line out --> branch2
+
+1 - commit 1 for head --> main
