@@ -6,6 +6,6 @@
 6 - commit 1 branch1 --> branch1
 7 - commit 2 branch1 --> branch1
 8 - simple merge check --> branch1
-9 - conflict check - 1 --> main
-10 - commit 3 main --> main
-11 - branch-1 is merged --> main
+9 - conflict check - 3 --> main
+10 - conflict branch-2 --> branch2
+12 - another line out --> branch2
