@@ -7,3 +7,4 @@
 7 - commit 2 branch1 --> branch1
 8 - simple merge check --> branch1
 9 - conflict check - 1 --> main
+10 - commit 3 main --> main
